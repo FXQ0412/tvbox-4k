@@ -4,6 +4,30 @@
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
     {
+      "key": "Wexconfig",
+      "name": "🐮配置┃中心🐮",
+      "type": 3,
+      "api": "csp_PanConfigGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "MyPan",
+      "name": "🐮我的┃网盘🐮",
+      "type": 3,
+      "api": "csp_MyPanGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "花卷",
       "name": "💓花卷┃4K💓‍",
       "type": 3,
@@ -373,5 +397,5 @@
       }
     }
   ],
-  "last_update": "2026-10-30 22:19"
+  "last_update": "2026-10-30 22:52"
 }
