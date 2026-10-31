@@ -1,0 +1,37 @@
+{
+  "code": 1,
+  "msg": "ok",
+  "pagecount": 1,
+  "limit": 90,
+  "total": 2,
+  "list": [
+    {
+      "vod_id": "1",
+      "vod_name": "示例：替换成你自己的4K电影",
+      "vod_en": "Your Own 4K Movie",
+      "vod_pic": "https://via.placeholder.com/500x700.png?text=我的4K片子",
+      "vod_remarks": "4K",
+      "vod_year": "2026",
+      "vod_area": "中国大陆",
+      "vod_actor": "你自己",
+      "vod_director": "你自己",
+      "vod_content": "这是你的专属源，只属于你。把你上传到夸克/115网盘的4K片子分享链接，填进 vod_play_url 里，就能在 FongMi 里播放。",
+      "vod_play_from": "我的网盘",
+      "vod_play_url": "4K$https://pan.quark.cn/s/你的夸克分享链接#1080P$https://pan.quark.cn/s/你的夸克分享链接"
+    },
+    {
+      "vod_id": "2",
+      "vod_name": "示例：替换成你自己的4K剧集",
+      "vod_en": "Your Own 4K Series",
+      "vod_pic": "https://via.placeholder.com/500x700.png?text=我的4K剧集",
+      "vod_remarks": "更新至第10集",
+      "vod_year": "2026",
+      "vod_area": "中国大陆",
+      "vod_actor": "你自己",
+      "vod_director": "你自己",
+      "vod_content": "每一集都可以单独填链接，用 # 分隔不同清晰度。",
+      "vod_play_from": "我的网盘",
+      "vod_play_url": "第1集$https://pan.quark.cn/s/你的夸克分享链接#第2集$https://pan.quark.cn/s/你的夸克分享链接#4K$https://pan.quark.cn/s/你的夸克分享链接"
+    }
+  ]
+}
