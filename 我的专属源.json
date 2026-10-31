@@ -7,7 +7,7 @@
       "key": "my_own_4k",
       "name": "🎬我的专属4K源🎬",
       "type": 3,
-      "api": "file:///sdcard/Download/我的专属数据.json",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FXQ0412/tvbox-4k/main/我的专属数据.json",
       "searchable": 0,
       "changeable": 1,
       "style": {
