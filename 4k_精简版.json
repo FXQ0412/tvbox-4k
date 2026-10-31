@@ -1,0 +1,67 @@
+{
+  "spider": "http://oss4liview.moji.com/thd_file/2026/10/31/272e922132480799981a031067b6d722.jpg;md5;8605fb93b9d2ba66e702fdbfcc496159",
+  "wallpaper": "https://www.loliapi.com/acg/",
+  "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
+  "sites": [
+    {
+      "key": "Wexconfig",
+      "name": "🐮配置┃中心🐮",
+      "type": 3,
+      "api": "csp_PanConfigGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "MyPan",
+      "name": "🐮我的┃网盘🐮",
+      "type": 3,
+      "api": "csp_MyPanGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "花卷",
+      "name": "💓花卷┃4K💓‍",
+      "type": 3,
+      "api": "csp_AiNewHuaJuanGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "七味",
+      "name": "💓‍七味┃4K💓‍",
+      "type": 3,
+      "api": "csp_AiQwMkvGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "my_own_4k",
+      "name": "🎬我的专属4K源🎬",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FXQ0412/tvbox-4k/main/我的专属数据.json",
+      "searchable": 0,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      }
+    }
+  ],
+  "parses": [],
+  "doh": [],
+  "rules": [],
+  "ads": [],
+  "lives": [],
+  "headers": [],
+  "last_update": "2026-10-31"
+}
